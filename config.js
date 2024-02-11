@@ -17,17 +17,17 @@ global.autoreadgc = true;
 
 
 //
-global.prefa = ["."];                                    //Default prefix here. you can change if you want.
+global.prefa = ["*"];                                    //Default prefix here. you can change if you want.
 
 
 //
 global.Owner = ["2349063382597"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
 global.OwnerNumber = ["2349063382597"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["916297175943"];
-global.OwnerName = "𝑇𝛨𝛯 𝐷𝑈𝛫𝛯";
-global.BotName = "A17";
-global.packname = "A17 Bot";                             //Do not change.
-global.author = "By: Duke";                               //Do not change.
+global.ownertag = ["2349063382597"];
+global.OwnerName = "𝙏𝞖𝞢 𝘿𝞢𝝯𝞘𝙇 𝞖𝞘𝞛𝙎𝞢𝙇𝙁";
+global.BotName = "𝙏𝞖𝞢 𝘿𝞢𝝯𝞘𝙇'𝙎 𝞑𝞗𝙏";
+global.packname = "𝞑𝞢𝙇𝞗𝞜𝙂𝙎 𝙏𝞗";                             //Do not change.
+global.author = "By: 𝙏𝞖𝞢 𝘿𝞢𝝯𝞘𝙇";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai0071/A17"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
 
